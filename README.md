@@ -1,11 +1,13 @@
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+<h3> 👨🏻‍💻  About Me  </h3>
+
+- 🔭 &nbsp; 目前任职于XXX（PS:保密）。
+- 🤔 &nbsp; 探索新技术并开发软件解决方案。
 
 
-<h3> 👨🏻‍💻 关于我 </h3>
+<h3>🛠 Tech Stack</h3>
 
-- 🔭 &nbsp; 我目前正在学习 Flutter 应用程序开发
-- 🤔 &nbsp; 探索新技术并开发软件解决方案和快速破解。
-- 🎓 &nbsp; 学习计算机科学、计算机编程和数学。
-- 💼 &nbsp; Android 开发人员和前端 Web 开发人员。
-- 🌱 &nbsp; 网络安全和人工智能爱好者。
-- ✍️ &nbsp; 观看动漫并尝试最新的设计趋势作为爱好/副业。
-- ☕ &nbsp; 我相信，一杯完美的咖啡可以成为任何压力的终极解决方案。
+- 💻 &nbsp; golang 
+
+<br>
